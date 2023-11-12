@@ -8,9 +8,9 @@ The projects captures video from the default camera, detects hand landmarks usin
 		c. pyautogui : Library for Controlling mouse and keyboard
 
 	2) Hand LandMark Detection
-		a. Step 1 : Creates a hands detector using MediaPipe
-		b. Step 2 : Processes the captured frame to detect hands
-		c. Step 3  : Retrieves the detected hand landmarks
+		Step 1 : Creates a hands detector using MediaPipe
+		Step 2 : Processes the captured frame to detect hands
+		Step 3  : Retrieves the detected hand landmarks
 
 	3) Mouse Control
 		a. Landmark of index fingers (id=8) and thumb (id=4) for mouse control
